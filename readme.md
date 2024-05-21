@@ -13,6 +13,8 @@ SpringCloud、MybatisPlus、ECharts、Oracle、Redis、Socket.IO、 ElasticSearc
 - 运用设计模式搭建和开发方便维护和易于迭代的数据异常多级报警模块
 
 ![本地路径](./img/2.jpg "多级报警") 
+![本地路径](./img/4.jpg "多级报警") 
+
 
 - 基于**微服务架构**对系统核心业务功能进行开发工作
 
